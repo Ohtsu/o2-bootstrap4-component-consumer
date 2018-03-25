@@ -1,27 +1,95 @@
-# O2Bootstrap4ComponentConsumer
+# O2Bootstrap4Component
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+# _o2-bootstrap4-component_ Navigation Header Component Library for Bootstrap4
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_o2-bootstrap4-component-consumer_ is a sample consumer project for _o2-bootstrap4-component_ .
 
-## Code scaffolding
+_Sample Program for setting config data_,
+<https://github.com/ohtsu/o2-bootstrap4-component-consumer/>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+_Video Explanation (English)_,
+<https://youtu.be/>
 
-## Build
+_Video Explanation (Japanese)_,
+<https://youtu.be/>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
+## Overview 
+   - _o2-bootstrap4-component_ is an easy navigation header tool based on _ng-bootstrap_ (version 1.0) for Angular5
+   - 8 main colors of Bootstrap are supported
+    (dark,light,primary,secondary,success,info,warning,danger)
+   - You can change menu titles by config data. 
+   - You can customize the log image by config data.
+   - You can customize the brand by config data.
+   - You can add dropdown lists.
+   - You can get click events of Buttons and so on.
+   - You can set routing data by config data.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Prerequisite
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+   - node.js
+   - Typescript2
+   - Angular5
+   - ng-bootstrap
 
-## Further help
+## Installation of the sample consumer project
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To download this consumer project, in your command line, type as follows:
+
+```bash
+$ git clone https://github.com/Ohtsu/o2-bootstrap4-component-consumer.git
+
+```
+Change into the project directory
+
+```bash
+$ cd o2-bootstrap4-component-consumer 
+```
+
+To install it, run simply:
+
+```bash
+$ npm install 
+```
+
+## Start project
+
+If you start local server as follows, you can get a navigation header of Bootstrap4 in your browser by accessing **http://localhost:4200**.
+
+
+```bash
+$ ng serve 
+```
+
+
+## Version
+
+   - o2-bootstrap4-component-consumer : 0.1.0
+   - o2-bootstrap4-component          : 0.4.0
+   - Angular5                         : 5.2.0
+   - TypeScript                        : 2.5.3
+   - @ng-bootstrap/ng-bootstrap        : 1.0.0
+
+
+
+
+## Reference
+
+- "Angular5 Custom Library: The definitive, step-by-step guide", 
+<https://www.udemy.com/draft/1461368/learn/v4/content>
+
+- "Angular5用 カスタムライブラリの作成", 
+<https://www.udemy.com/draft/1450138/learn/v4/content>
+
+
+
+## Change Log
+
+ - 2018.3.22 version 1.0 uploaded 
+
+## Copyright
+
+copyright 2018 by Shuichi Ohtsu (DigiPub Japan)
