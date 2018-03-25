@@ -281,8 +281,8 @@ If you set the configData, `app.component.html` structue is very simple as follo
 
 ## Version
 
-   - o2-bootstrap4-component-consumer : 0.4.0
-   - o2-bootstrap4-component          : 0.4.0
+   - o2-bootstrap4-component-consumer : 0.5.0
+   - o2-bootstrap4-component          : 0.5.0
    - Angular5                         : 5.2.0
    - TypeScript                        : 2.5.3
    - @ng-bootstrap/ng-bootstrap        : 1.0.0
