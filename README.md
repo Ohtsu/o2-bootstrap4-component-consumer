@@ -10,7 +10,7 @@ _Sample Program for setting config data_,
 <https://github.com/ohtsu/o2-bootstrap4-component-consumer/>
 
 _Video Explanation (English)_,
-<https://youtu.be/>
+<https://youtu.be/GvcCK-ZR864>
 
 _Video Explanation (Japanese)_,
 <https://youtu.be/>
