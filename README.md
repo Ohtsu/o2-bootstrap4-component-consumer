@@ -13,7 +13,7 @@ _Video Explanation (English)_,
 <https://youtu.be/GvcCK-ZR864>
 
 _Video Explanation (Japanese)_,
-<https://youtu.be/>
+<https://youtu.be/uCErv1BJBXs>
 
 
 ## Overview 
